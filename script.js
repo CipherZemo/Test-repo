@@ -95,7 +95,8 @@ for(let k=0;k<=50;k++){
     if(k%2==0 && k%10!=0)
         out3=out3+k+' ';
 }
-console.log(out3)
+console.log(out3);
+console.log(hi);
 
 
 
